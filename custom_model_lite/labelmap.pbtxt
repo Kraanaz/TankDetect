@@ -1,0 +1,50 @@
+item {
+  id: 1
+  name: 'bm21'
+}
+
+item {
+  id: 2
+  name: 'bmd2'
+}
+
+item {
+  id: 3
+  name: 'bmp1'
+}
+
+item {
+  id: 4
+  name: 'bmp2'
+}
+
+item {
+  id: 5
+  name: 'btr70'
+}
+
+item {
+  id: 6
+  name: 'btr80'
+}
+
+item {
+  id: 7
+  name: 'mtlb'
+}
+
+item {
+  id: 8
+  name: 't64'
+}
+
+item {
+  id: 9
+  name: 't72'
+}
+
+item {
+  id: 10
+  name: 't80'
+}
+
